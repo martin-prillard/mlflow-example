@@ -1,6 +1,6 @@
 name: tutorial
 
-python_env: python_env.yaml
+# python_env: python_env.yaml
 docker_env:
   image: 423412/mlflow-kubernetes-example:v1
 
